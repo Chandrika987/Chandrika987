@@ -1,15 +1,7 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <div>
-    
-  # About Me
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhwNHVua2ZtdGxnZ3dsMjRpdXpqbGhrOTdnM2hzcGlwYm1tbGVuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif" width="250" style="margin-top: 20px;" />
+
+
 👩‍💻 My name is Chandrika<br>🤖 Interested in AI, Machine Learning, and Software Development<br>📚 Currently learning Data Structures & Algorithms and ML basics<br>🚀 Building projects and gaining experience through virtual internships<br>🤝 Open to collaborate on Open Source and beginner-friendly AI/ML projects<br>💬 Ask me about C programming, basics of AI, and my learning journey
-
-    
-  </div>
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhwNHVua2ZtdGxnZ3dsMjRpdXpqbGhrOTdnM2hzcGlwYm1tbGVuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif" width="250" style="margin-top: 20px;" />
-
 
 
 ## 🌐 Socials:
