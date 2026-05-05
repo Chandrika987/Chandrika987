@@ -1,8 +1,17 @@
 # Chandrika_Pala
 # 💫 About Me:
-🔭 I’m currently working on<br>Building real-world projects in AI and software development, and improving my problem-solving skills through consistent practice<br><br>👯 I’m looking to collaborate on<br>Open-source projects, beginner-friendly AI/ML projects, and web-based applications<br><br>🤝 I’m looking for help with<br>Understanding advanced concepts in AI/ML and improving Data Structures & Algorithms<br><br>🌱 I’m currently learning<br>Data Structures and Algorithms, Machine Learning basics, and full-stack development<br><br>💬 Ask me about<br>C programming, basics of AI, my internship experiences, and getting started with open source<br><br>⚡ Fun fact<br>I enjoy learning new technologies step by step and turning small ideas into real projects<br>
+👩‍💻 My name is Chandrika<br>
+🤖 Interested in AI, Machine Learning, and Software Development<br>
+📚 Currently learning Data Structures & Algorithms and ML basics<br>
+🚀 Building projects and gaining experience through virtual internships<br>
+🤝 Open to collaborate on Open Source and beginner-friendly AI/ML projects<br>
+💬 Ask me about C programming, basics of AI, and my learning journey<br>
 
-
+# Roles & Activities
+ Contributor — Open Source (GSSoC’26)<br>
+ Actively working on improving coding and development skills<br>
+ Exploring real-world problem-solving through projects<br>
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandrikapala/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrikapala04@gmail.com) 
 
