@@ -10,7 +10,7 @@
 - Currently learning Data Structures & Algorithms and ML basics  
 - Building projects and gaining experience through virtual internships  
 - Open to collaborate on Open Source and beginner-friendly AI/ML projects  
-- Ask me about C programming, basics of AI, and my learning journey  
+  
 
     </td>
 
