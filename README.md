@@ -5,7 +5,7 @@
       
 <h2>About Me</h2>
 
-- My name is Chandrika  
+- I am Chandrika  
 - Interested in AI, Machine Learning, and Software Development  
 - Currently learning Data Structures & Algorithms and ML basics  
 - Building projects and gaining experience through virtual internships  
