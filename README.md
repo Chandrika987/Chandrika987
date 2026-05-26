@@ -9,7 +9,8 @@
 - Interested in AI, Machine Learning, and Software Development  
 - Currently learning Data Structures & Algorithms and ML basics  
 - Building projects and gaining experience through virtual internships  
-- Open to collaborate on Open Source and beginner-friendly AI/ML projects  
+- Open to collaborate on Open Source and beginner-friendly AI/ML projects
+- Would love to connect
   
 
     </td>
